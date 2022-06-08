@@ -1,0 +1,5 @@
+-  # sobre mim
+- 👀 ola,eu sou estudante @rubia
+- 🌱 meu gmail de contato é @rubia.sczniczer@escola.pr.gov.br
+- eu estou interessado em aprender o programa de novas linguagem
+- 💞️ eu estou aprendendo o programa recentemente a linguagem javascrpt e scratc
